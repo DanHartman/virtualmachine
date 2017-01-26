@@ -1,4 +1,7 @@
 ## Common Virtualbox Development
+Repo for reducing the number of times I make a new
+Vagrantfile.  The thought is to include this inside other repos.
+
 
 requirements:
 *  vagrant
